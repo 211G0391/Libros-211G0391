@@ -1,0 +1,13 @@
+﻿<Application x:Class="Libros_211G0391.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Libros_211G0391"
+             StartupUri="views/LibrosView.xaml">
+    <Application.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="15"></Setter>
+            
+        </Style>
+         
+    </Application.Resources>
+</Application>
